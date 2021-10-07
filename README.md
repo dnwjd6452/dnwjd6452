@@ -1,7 +1,13 @@
 ###  Hello My name is Kwongmin, I am a developer working at AlphaDo 👋
 
 
+
+
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
+
+
 
 </br>
 <p align="center">
