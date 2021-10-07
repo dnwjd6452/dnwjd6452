@@ -1,4 +1,6 @@
+<p align="center">
 ###  Hello My name is Kwongmin, I am a developer working at AlphaDo 👋
+</p>
 </br>
 
 
@@ -20,7 +22,6 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
 </br>
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnwjd6452&show_icons=true&theme=radical)
 
 
