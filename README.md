@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hello My name is Kwongmin, I am a developer working at AlphaDo 👋
 
 <!--
 **dnwjd6452/dnwjd6452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
