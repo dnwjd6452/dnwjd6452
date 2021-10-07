@@ -1,11 +1,13 @@
 ###  Hello My name is Kwongmin, I am a developer working at AlphaDo 👋
+</br>
+</br>
+</br>
 
 
 
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp 
