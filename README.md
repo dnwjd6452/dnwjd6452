@@ -1,11 +1,14 @@
 <!--<p align="center">-->
 👋 Hello My name is Kwongmin, I am a developer working at AlphaDo 👋
 </br>
+</br>
+</br>
 
 
 
 
 <b>🛠 Tech Stack 🛠</b>
+</br>
 </br>
 
 <!--<p align="center">-->
@@ -26,6 +29,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnwjd6452&show_icons=true&theme=vue)
 
+</br>
+</br>
 
 📫Contacts
 </br>
