@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon S3-1572B6?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a> &nbsp </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnwjd6452&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnwjd6452&show_icons=true&theme=vue)
 
 
 <!--
