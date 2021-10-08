@@ -2,7 +2,6 @@
 👋 Hello My name is Kwongmin, I am a developer working at AlphaDo 👋
 </br>
 </br>
-</br>
 
 
 
@@ -29,7 +28,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnwjd6452&show_icons=true&theme=vue)
 
-</br>
 </br>
 
 📫Contacts
