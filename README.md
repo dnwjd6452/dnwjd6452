@@ -1,4 +1,6 @@
+<p align="center">
 👋 Hello My name is Kwongmin, I am a developer working at AlphaDo 👋
+</p>
 </br>
 
 
