@@ -1,5 +1,5 @@
 <!--<p align="center">-->
-👋 Hello My name is Kwongmin, I am a developer working at AlphaDo 👋
+👋 Hello My name is Liam, I am a developer working at AlphaDo 👋
 </br>
 </br>
 
