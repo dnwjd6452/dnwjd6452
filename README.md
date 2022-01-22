@@ -22,11 +22,6 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Amazon S3-1572B6?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a>
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnwjd6452&show_icons=true&theme=vue)
-
 </br>
 
 📫Contacts
