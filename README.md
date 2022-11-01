@@ -1,5 +1,8 @@
 <!--<p align="center">-->
-👋 Hello My name is Liam, I am a developer working at [./-](https://www.dotslashdash.com/)
+
+# Hello! I'm Liam 👋
+I'm a developer working at [./-](https://www.dotslashdash.com/)
+
 </br> 
 </br>
 
