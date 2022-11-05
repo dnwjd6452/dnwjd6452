@@ -1,7 +1,7 @@
 <!--<p align="center">-->
 
 ### Hello! I'm Liam 👋
-I'm a developer working at [./-(DotSlashDash)](https://www.dotslashdash.com/)
+I'm a developer working at [./- DotSlashDash](https://www.dotslashdash.com/)
 
 
 <!--
